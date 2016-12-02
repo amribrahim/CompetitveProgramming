@@ -1,0 +1,6 @@
+import math
+
+num=int(input())
+for count in range(num):
+    num2=int(input())
+    print(math.factorial(num2))
